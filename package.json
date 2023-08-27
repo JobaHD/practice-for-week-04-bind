@@ -1,0 +1,14 @@
+{
+  "name": "practice-for-week-04-bind",
+  "version": "1.0.0",
+  "description": "In this practice, you will practice identifying when to use `bind` and how to use it.",
+  "main": "employee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
